@@ -5,4 +5,6 @@
 https://demo.sk.ee/MIDCertsReg/index.php - register your mobile number & personal code into test-digidoc-service
 
 Account identity service in  CryptoEuro environment
+
+TODO: Replace Estonian ID card with Sofitto bankig card 
 ![Euro2 environment](https://github.com/cryptofiat/contract/raw/master/eth-eur-0-41.png)
